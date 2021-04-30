@@ -5,4 +5,7 @@ git add .
 git commit -m "added new features"
 
 3. Push your work to Github
-git push 
+git push
+
+4. Package.json gits
+bit.ly/js-dev-env-package-json
